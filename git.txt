@@ -7,4 +7,5 @@ chay ngay di son tung ra clip
 gogogo
 lpl
 
-bay nao nay nay
+bay nao nay 
+cho nay dang bi conflict
